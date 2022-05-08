@@ -157,26 +157,35 @@ plt.show()
 
 
 ```
+
 ## Output:
-### i)Image Translation
+## i)Image Translation
+<img width="245" alt="Screenshot 2022-05-08 at 8 09 20 PM" src="https://user-images.githubusercontent.com/93427224/167301746-10f10324-414d-4b27-8e7d-0229c4040693.png">
+
 
 
 ### ii) Image Scaling
+<img width="241" alt="Screenshot 2022-05-08 at 8 09 30 PM" src="https://user-images.githubusercontent.com/93427224/167301764-71ae78e9-d7a0-4943-bf79-add901ec67d4.png">
+
 
 
 ### iii)Image shearing
+<img width="214" alt="Screenshot 2022-05-08 at 8 10 38 PM" src="https://user-images.githubusercontent.com/93427224/167301794-1336d2eb-2ca1-4d64-8579-6d01a87d9760.png">
 
 
 
 ### iv)Image Reflection
+<img width="269" alt="Screenshot 2022-05-08 at 8 12 28 PM" src="https://user-images.githubusercontent.com/93427224/167301809-ebb1151e-782c-4aed-85c9-83a90872af10.png">
 
 
 
 ### v)Image Rotation
+<img width="226" alt="Screenshot 2022-05-08 at 8 12 49 PM" src="https://user-images.githubusercontent.com/93427224/167301817-c137962c-10d8-42de-9588-aeeed711ab68.png">
 
 
 
 ### vi)Image Cropping
+<img width="346" alt="Screenshot 2022-05-08 at 8 13 33 PM" src="https://user-images.githubusercontent.com/93427224/167301830-0b03c262-9f28-4398-958f-fdf0ae2193c8.png">
 
 
 
